@@ -6,5 +6,5 @@ This is a [Docker Compose](https://docs.docker.com/compose/) template configured
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]([https://gitpod.io/#https://github.com/gitpod-io/template-docker-compose](https://gitpod.io/#https://github.com/gounthar/jenkins-docker-compose-gitpod))
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]([[https://gitpod.io/#https://github.com/gitpod-io/template-docker-compose](https://gitpod.io/#https://github.com/gounthar/jenkins-docker-compose-gitpod)](https://gitpod.io/#https://github.com/gounthar/jenkins-docker-compose-gitpod))
 
